@@ -1,0 +1,9 @@
+# Inp - Trial - 0
+
+
+when talking about found --> refer to cross-referencing
+this part here is loaded as a regular **CHAPTER** qmd file
+
+
+Further check [@sec-chap_1_Intro_Trial_0] -- should be found
+chapter [-@sec-chap_1_Abc_Trial_0] -- should be found

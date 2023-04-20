@@ -1,0 +1,15 @@
+# Inp - Trial - 2
+
+when talking about found --> refer to cross-referencing
+this part here is loaded as a **PART** qmd file
+
+Further check [@sec-chap_1_Intro_Trial_2] -- is not found
+chapter [-@sec-chap_1_Abc_Trial_2] -- is found
+
+
+We see multiple things here
+1) A qmd file is set as part file
+2) First the introduction is loaded, it contains the references, i.e., the id definitions for the chapters
+3) The qmd file that invokes the reference using [@name_Of_Reference] comes in the chapter (after part) section in the yml file
+4) Strangely, the first chapter defined in the intro.qmd file fill not be found. However, the second chapter defined in the intro.qmd fill be found for cross-ref.
+

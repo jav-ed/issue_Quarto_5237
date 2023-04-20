@@ -1,0 +1,35 @@
+project:
+  type: book
+
+book:
+  title: "1_Test"
+  chapters:
+      # index is the main page of the book
+    - index.qmd 
+
+    # ------------------------------ first check ----------------------------- #
+    - part: "Part has no qmd file"
+      chapters: 
+        - 0_Trial/0_Trials.qmd
+        - 0_Trial/1_Introduction.qmd
+        
+    # ----------------------------- second check ----------------------------- #
+    - part: 1_Trial/0_Trials.qmd
+      chapters:
+        - 1_Trial/1_Introduction.qmd
+
+    # ------------------------------ third check ----------------------------- #
+    - part: 2_Trial/1_Introduction.qmd
+      chapters:
+        - 2_Trial/0_Trials.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme: cosmo
+  pdf:
+    documentclass: scrreprt
+
+
+

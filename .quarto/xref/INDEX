@@ -1,0 +1,59 @@
+{
+  "index.qmd": {
+    "index.html": "2990889b"
+  },
+  "trials.qmd": {
+    "trials.html": "61da3556"
+  },
+  "Data/1_Writing/1_Task/1_Introduction.qmd": {
+    "1_Introduction.html": "cb5d014f"
+  },
+  "Inp/trials.qmd": {
+    "trials.html": "de90086a"
+  },
+  "Inp/1_Introduction.qmd": {
+    "1_Introduction.html": "343888cf"
+  },
+  "Data/1_Writing/0_Deco/2_Thanks.qmd": {
+    "2_Thanks.html": "20a21865"
+  },
+  "Data/1_Writing/0_Deco/1_Erkl.qmd": {
+    "1_Erkl.html": "03724490"
+  },
+  "Data/1_Writing/0_Deco/2_0_Task_Def.qmd": {
+    "2_0_Task_Def.html": "67b86586"
+  },
+  "Data/1_Writing/0_Deco/2_1_Abstract.qmd": {
+    "2_1_Abstract.html": "47cd6f06"
+  },
+  "Data/1_Writing/0_Deco/3_Used_Abbrev.qmd": {
+    "3_Used_Abbrev.html": "cf6987d0"
+  },
+  "Data/1_Writing/1_Task/2_0_Motivation.qmd": {
+    "2_0_Motivation.html": "795468cd"
+  },
+  "Data/1_Writing/1_Task/2_State_Of_Art.qmd": {
+    "2_State_Of_Art.html": "152ae268"
+  },
+  "Data/1_Writing/1_Task/3_CNM.qmd": {
+    "3_CNM.html": "761d4b31"
+  },
+  "0_Trial/0_Trials.qmd": {
+    "0_Trials.html": "bf90fb38"
+  },
+  "0_Trial/1_Introduction.qmd": {
+    "1_Introduction.html": "9763aef7"
+  },
+  "1_Trial/0_Trials.qmd": {
+    "0_Trials.html": "346cf393"
+  },
+  "1_Trial/1_Introduction.qmd": {
+    "1_Introduction.html": "3c4b9aeb"
+  },
+  "2_Trial/1_Introduction.qmd": {
+    "1_Introduction.html": "ea4fe66d"
+  },
+  "2_Trial/0_Trials.qmd": {
+    "0_Trials.html": "28ee3e84"
+  }
+}
