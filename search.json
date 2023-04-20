@@ -1,0 +1,51 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "1_Test",
+    "section": "",
+    "text": "Preface\nPlease, note this is only for demonstration purposes. The goal is not to invent or develop something (also not using proper grammar and spelling). There is a bug found and in order to present it in a fast and understandable way, this is done\nsee: https://github.com/quarto-dev/quarto-cli/issues/5237\nThis is a Quarto book.\nTo learn more about Quarto books visit https://quarto.org/docs/books."
+  },
+  {
+    "objectID": "0_Trial/0_Trials.html",
+    "href": "0_Trial/0_Trials.html",
+    "title": "1  Inp - Trial - 0",
+    "section": "",
+    "text": "when talking about found –&gt; refer to cross-referencing this part here is loaded as a regular CHAPTER qmd file\nFurther check Chapter 2 – should be found chapter 3 – should be found"
+  },
+  {
+    "objectID": "0_Trial/1_Introduction.html",
+    "href": "0_Trial/1_Introduction.html",
+    "title": "2  Inp Chap Trial_0",
+    "section": "",
+    "text": "Here is some more text\n\n3 Inp Introduction Trial_0\nHere is some more text"
+  },
+  {
+    "objectID": "1_Trial/0_Trials.html",
+    "href": "1_Trial/0_Trials.html",
+    "title": "Inp - Trial - 1",
+    "section": "",
+    "text": "when talking about found –&gt; refer to cross-referencing this part here is loaded as a PART qmd file\nFurther check Chapter 3 – is found chapter 4 – is found"
+  },
+  {
+    "objectID": "1_Trial/1_Introduction.html",
+    "href": "1_Trial/1_Introduction.html",
+    "title": "3  Inp Chap Trial_1",
+    "section": "",
+    "text": "Here is some more text\n\n4 Inp Introduction Trial_1\nHere is some more text"
+  },
+  {
+    "objectID": "2_Trial/1_Introduction.html",
+    "href": "2_Trial/1_Introduction.html",
+    "title": "Inp Chap Trial_2",
+    "section": "",
+    "text": "Here is some more text\n\nInp Introduction Trial_2\nHere is some more text"
+  },
+  {
+    "objectID": "2_Trial/0_Trials.html",
+    "href": "2_Trial/0_Trials.html",
+    "title": "4  Inp - Trial - 2",
+    "section": "",
+    "text": "when talking about found –&gt; refer to cross-referencing this part here is loaded as a PART qmd file\nFurther check ?sec-chap_1_Intro_Trial_2 – is not found chapter 1 – is found\nWe see multiple things here 1) A qmd file is set as part file 2) First the introduction is loaded, it contains the references, i.e., the id definitions for the chapters 3) The qmd file that invokes the reference using (name_Of_Reference?) comes in the chapter (after part) section in the yml file 4) Strangely, the first chapter defined in the intro.qmd file fill not be found. However, the second chapter defined in the intro.qmd fill be found for cross-ref."
+  }
+]
